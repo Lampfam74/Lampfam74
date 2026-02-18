@@ -91,7 +91,7 @@ Je conçois et sécurise des applications web et industrielles avec une approche
 
 ## 📫 Me contacter
 - Email : **papamagueyefaam.com**  
-- LinkedIn : [linkedin.com/in/lampfam74](https://linkedin.com/in/lampfam74)  
+- LinkedIn : [www.linkedin.com/in/papa-magueye-fam-lamp](www.linkedin.com/in/papa-magueye-fam-lamp)  
 - GitHub : [github.com/lampfam74](https://github.com/lampfam74)  
 
 ---
