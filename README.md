@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **lampfam74**
 
-### 💻 Back-end Developer | DevSecOps & Cybersecurity Enthusiast | Laravel Expert
+### 💻 Back-end Developer | DevSecOps & AppSec Enthusiast | Laravel Expert
 
 Je conçois et sécurise des applications web et industrielles avec une approche **DevSecOps complète** : Laravel, CI/CD, Docker, Kubernetes, Bash, audit et sécurité.
 
